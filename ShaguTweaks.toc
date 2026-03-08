@@ -1,5 +1,5 @@
 ## Interface: 11200
-## Title: |cffffcc00Shagu|cffffffffTweaks
+## Title: |cff7fff7f [D]|r |cffffcc00Shagu|cffffffffTweaks
 ## Author: Shagu
 ## Notes: A collection of tweaks and enhancements to the Default UI
 ## Notes-ruRU: Коллекция настроек и улучшений для стандартного пользовательского интерфейса.
