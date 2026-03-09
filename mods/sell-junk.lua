@@ -93,7 +93,6 @@ module.enable = function(self)
       -- Disable button once finished
       autovendor.button:Disable()
       btnIcon:SetDesaturated(true)
-      yellowBorder:SetVertexColor(0.5, 0.5, 0.5, 1)
       return
     end
     
